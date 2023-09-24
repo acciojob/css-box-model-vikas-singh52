@@ -1,16 +1,25 @@
 
 /* Your CSS Code here. */
 .container{
-	margin:20px;
-	border:1px solid red;
-	background-color:red;
+	width:80%;
+	margin:50px;
+	border:1px solid black;
+	
+	padding:50px;
 }
 .inner_con{
+	margin:20px;
 	padding:50px;
-	border:15px solid lightblue;
+	border:1px solid red;
 	background-color:purple;
 	
 }
+.sec_last{
+	background-color:lightblue;
+	padding:50px;
+	margin:20px;
+
+}
 .last{
-	background-color:lightlue;
+	border:1px solid black;
 }
