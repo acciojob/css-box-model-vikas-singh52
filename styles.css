@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.container{
+	margin:20px;
+	border:1px solid red;
+	background-color:red;
+}
+.inner_con{
+	padding:50px;
+	border:15px solid lightblue;
+	background-color:purple;
+	
+}
+.last{
+	background-color:lightlue;
+}
